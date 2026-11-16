@@ -38,3 +38,37 @@ This repository contains my learning activities and beginner-level Python projec
 
 ## Learning Outcome
 Through this module, I developed a basic understanding of AI concepts and Python programming fundamentals. I also practised programming by developing three beginner-level projects.
+
+
+---
+
+## Module 02 – Python Mini Project
+
+### Project: Personal Expense Tracker
+
+A beginner-friendly Python application designed to manage and track personal expenses.
+
+### Features
+- Add new expenses.
+- Enter expense names and categories.
+- View all recorded expenses.
+- Calculate total expenses.
+- Set a total budget.
+- Calculate the remaining balance.
+- Save expense records using JSON file handling.
+- Load previously saved data when restarting the program.
+
+### Technologies Used
+- Python
+- JSON
+- Visual Studio Code
+
+### Concepts Practised
+- Variables and Data Types
+- Functions
+- Conditional Statements
+- While Loops
+- Lists and Dictionaries
+- File Handling
+- Exception Handling
+- JSON Data Storage

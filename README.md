@@ -44,7 +44,7 @@ Through this module, I developed a basic understanding of AI concepts and Python
 
 ## Module 02 – Python Mini Project
 
-### Project: Personal Expense Tracker
+### Project: 1. Personal Expense Tracker
 
 A beginner-friendly Python application designed to manage and track personal expenses.
 
@@ -72,3 +72,21 @@ A beginner-friendly Python application designed to manage and track personal exp
 - File Handling
 - Exception Handling
 - JSON Data Storage
+
+
+### 2. Password Generator
+
+A Python project that generates secure random passwords based on user preferences.
+
+**Features:**
+- Custom password length (8–128 characters).
+- Uppercase and lowercase letters.
+- Numbers and special characters.
+- Secure random generation using Python's `secrets` module.
+- Input validation and error handling.
+
+**Concepts Used:**
+- Python strings
+- Conditional statements
+- Exception handling
+- `secrets` and `string` modules

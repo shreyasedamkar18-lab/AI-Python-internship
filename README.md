@@ -90,3 +90,24 @@ A Python project that generates secure random passwords based on user preference
 - Conditional statements
 - Exception handling
 - `secrets` and `string` modules
+
+
+### 3. To-Do List Application
+
+A Python application that helps users manage daily tasks.
+
+**Features:**
+- Add new tasks.
+- View all tasks.
+- Mark tasks as completed.
+- Delete tasks.
+- Save tasks permanently using a JSON file.
+- Load previously saved tasks.
+
+**Concepts Used:**
+- Python functions
+- Lists and dictionaries
+- File handling
+- JSON module
+- Loops and conditional statements
+- Exception handling

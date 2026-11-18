@@ -111,3 +111,32 @@ A Python application that helps users manage daily tasks.
 - JSON module
 - Loops and conditional statements
 - Exception handling
+
+
+### Module 03 – Data Analysis & Visualization
+- Worked with NumPy and Pandas for data analysis.
+- Loaded, cleaned, and explored datasets.
+- Handled missing values and performed data filtering.
+- Created bar charts, line charts, and pie charts using Matplotlib.
+- Practised CSV data loading and visualization.
+
+### Module 04 – Machine Learning Fundamentals
+- Explored the basic Machine Learning workflow.
+- Used the Iris dataset from Scikit-learn.
+- Split data into training and testing sets.
+- Trained a Decision Tree Classifier.
+- Evaluated model performance using accuracy, classification report, and confusion matrix.
+- Made predictions using the trained model.
+
+### Module 05 – AI Tools & Mini Project
+- Developed a Python-based Study Assistant using Streamlit.
+- Implemented topic explanations, note summarization, and quiz generation.
+- Used Python and Streamlit.
+- Created project documentation and uploaded the project to GitHub.
+
+### Module 06 – Final AI & ML Project
+- Developed a Student Performance Prediction System.
+- Built a Linear Regression model using Scikit-learn.
+- Created an interactive Streamlit web application.
+- Implemented score prediction, model evaluation, and data visualization.
+- Used Python, Pandas, NumPy, Matplotlib, and Streamlit.
